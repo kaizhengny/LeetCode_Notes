@@ -3,8 +3,8 @@ Source: https://zxi.mytechroad.com/blog/leetcode-problem-categories/
 
 List（链表）
 
-|Id | Name|Difficulty|Similar Problems|	Comments|
-|---|-----|----------|----------------|---------|
+| Id | Name | Difficulty | Similar Problems |	Comments |
+| --- | ----- | ---------- | ---------------- | --------- |
 |2	|Add Two Numbers	|★★|	445	|						traversal|
 |24	|Swap Nodes in Pairs|	★★|		|						reverse|
 |206|	Reverse Linked List|	★★|		|						reverse|
