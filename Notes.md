@@ -1,3 +1,10 @@
+### Array
+To change the array ** in place ** without creating a new array could be achieved by two pointers by assigning array[i] = array[j]
+
+
+
+
+
 ### Binary Search Tree
 
 Preorder/inorder/postorder traversals all belong to DFT. 
