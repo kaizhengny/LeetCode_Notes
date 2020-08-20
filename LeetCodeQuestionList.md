@@ -8,6 +8,7 @@ Source: https://zxi.mytechroad.com/blog/leetcode-problem-categories/
 | Id | Name | Difficulty | Similar Problems |	Comments |
 | --- | ----- | ---------- | ---------------- | --------- |
 |26|Remove Duplicates from Sorted Array|★|122|Change array in place |
+|283|Move zeros|★★|26|Change array in place; slow and fast pointer |
 |11|	Container With Most Water|	★★|	42||							
 |125|	Valid Palindrome|	★★	|455|						|	
 |917|	Reverse Only Letters|	★★|	925	986	855||					
