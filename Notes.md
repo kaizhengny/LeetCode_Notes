@@ -1,5 +1,5 @@
 ### Array
-To change the array ** in place ** without creating a new array could be achieved by two pointers by assigning array[i] = array[j]
+**LC26:** To change the array ** in place ** without creating a new array could be achieved by two pointers by assigning array[i] = array[j]
 
 
 
@@ -7,7 +7,7 @@ To change the array ** in place ** without creating a new array could be achieve
 
 ### Binary Search Tree
 
-Preorder/inorder/postorder traversals all belong to DFT. 
+**LC1008:** Preorder/inorder/postorder traversals all belong to DFT. 
 DFT could use stack structure or recursion to achive it.
 BFT could use queue structure to achive it.
 
