@@ -1,11 +1,20 @@
 ### Array
 **LC26:** To change the array **in place** without creating a new array could be achieved by two pointers by assigning array[i] = array[j]
-
-**LC189**
+**LC283:** 
+          
+          Two pointers. Slow and fast pointer. Only 1 iteration to achieve time complexity of O(n)
+           i = j = 0
+           for i in len(array):
+                    if ___:
+                              j+=1
+                              array[i], array[j] = array[j] array[i]
+                        
+                          
+**LC189:**
 * To rotate array by k: k %=len(array)
 * Use temp var to store value and assign value to array[(i+k)%len(array)] to achieve time complexity of O(n) and space complexity of O(1)
           
-**LC136** Bitwise operation XOR
+**LC136:** Bitwise operation XOR
            3   ^   5   =   6
           0B11 ^ 0B101 = 0B110
           
