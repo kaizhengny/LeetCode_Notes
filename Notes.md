@@ -1,6 +1,6 @@
 ### Array
 **LC26:** To change the array ** in place ** without creating a new array could be achieved by two pointers by assigning array[i] = array[j]
-**LC189** 
+**LC189**
           * To rotate array by k: k %=len(array)
           * Use temp var to store value and assign value to array[(i+k)%len(array)] to achieve time complexity of O(n) and space complexity of O(1)
           
