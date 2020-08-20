@@ -1,7 +1,18 @@
 ### Array
 **LC26:** To change the array ** in place ** without creating a new array could be achieved by two pointers by assigning array[i] = array[j]
+**LC189** 
+          * To rotate array by k: k %=len(array)
+          * Use temp var to store value and assign value to array[(i+k)%len(array)] to achieve time complexity of O(n) and space complexity of O(1)
+          
+**LC136** Bitwise operation XOR
+           3   ^   5   =   6
+          0B11 ^ 0B101 = 0B110
+          
+            6   ^   5   =   3
+          0B110 ^ 0B101 = 0B11
+          Any int1 ^ int2 ^ int2 = int1. Thus bitwise operation XOR could be used when to eliminate items appear even times.
 
-
+          
 
 
 
