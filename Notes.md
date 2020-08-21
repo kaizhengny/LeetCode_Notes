@@ -1,4 +1,15 @@
 ### Array
+**LC1:**  
+    Two Sum to a target: Use a dictionary to store the current index with the complement number as the key.  
+    def twoSum(self, nums, target):
+        d = {}
+        for i, n in enumerate(nums):
+            m = target - n
+            if m in d:
+                return [d[m], i]
+            else:
+                d[n] = i
+
 **LC26:** To change the array **in place** without creating a new array could be achieved by two pointers by assigning array[i] = array[j]
 **LC283:** 
           
