@@ -7,6 +7,7 @@ Source: https://zxi.mytechroad.com/blog/leetcode-problem-categories/
 
 | Id | Name | Difficulty | Similar Problems |	Comments |
 | --- | ----- | ---------- | ---------------- | --------- |
+|763|Partition Labels|★★★||two/three pointers. Store the last index of each letter |
 |26|Remove Duplicates from Sorted Array|★|122|Change array in place |
 |283|Move zeros|★★|26|Change array in place; slow and fast pointer |
 |11|	Container With Most Water|	★★|	42||							
