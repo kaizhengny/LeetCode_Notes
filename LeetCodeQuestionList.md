@@ -7,6 +7,7 @@ Source: https://zxi.mytechroad.com/blog/leetcode-problem-categories/
 
 | Id | Name | Difficulty | Similar Problems |	Comments |
 | --- | ----- | ---------- | ---------------- | --------- |
+|3|Longest Substring Without Repeating Characters|★★★||String, slow and fast pointers|
 |763|Partition Labels|★★★||String, two/three pointers, Store the last index of each letter |
 |26|Remove Duplicates from Sorted Array|★|122|Change array in place |
 |283|Move zeros|★★|26|Change array in place; slow and fast pointer |
