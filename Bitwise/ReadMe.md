@@ -21,3 +21,6 @@ It seems math operator '+' has higher priority in the calculation.
             s = (s << i.bit_length() | i) % 1000000007
             
         return s
+
+
+LeetCode Link https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
